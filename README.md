@@ -6,8 +6,8 @@ Configure arquivo "jaas.config"
 
 apache-tomcat/conf/jaas.config
 
-<code>
+```xhtml
   SaluteLogin {
       br.com.selfSystem.security.FuturoWebLoginModule required debug=true;
   };
-</code>
+  ```
