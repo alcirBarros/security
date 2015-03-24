@@ -13,6 +13,6 @@ apache-tomcat/conf/jaas.config
   ```
   
 ##Requisitos
---Java
---Maven
---Apache-Tomcat
+- Java
+- Maven
+- Apache-Tomcat
