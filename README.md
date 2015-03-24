@@ -11,3 +11,8 @@ apache-tomcat/conf/jaas.config
       br.com.selfSystem.security.FuturoWebLoginModule required debug=true;
   };
   ```
+  
+##Requisitos
+--Java
+--Maven
+--Apache-Tomcat
